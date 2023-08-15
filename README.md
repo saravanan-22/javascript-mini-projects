@@ -1,6 +1,5 @@
-# AJ_JS_FCCP-15_1_CF
 
-Color Flipper JavaScript Project
+#Color Flipper JavaScript Project
 
 The ColorFlipper JavaScript project is a simple web application that allows users to generate random colors and apply them to the background of a designated area. 
 This project serves as a fun and educational way to practice working with JavaScript to manipulate the Document Object Model (DOM) and create interactive user experiences.
