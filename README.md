@@ -4,6 +4,8 @@
 
 **▶ Live gallery: [https://saravanan-22.github.io/javascript-mini-projects](https://saravanan-22.github.io/javascript-mini-projects/)**
 
+![Project gallery](screenshots/gallery.png)
+
 | # | Project | What it does | Demo | Code |
 |---|---|---|---|---|
 | 1 | **Color Flipper** | Flips the background to a random named CSS color and shows its name | [Live](https://saravanan-22.github.io/javascript-mini-projects/color-flipper/) | [`color-flipper/`](color-flipper/) |
@@ -32,3 +34,6 @@ cd javascript-mini-projects
 
 ## Tech
 HTML5 · CSS3 · JavaScript (ES6) · DOM API · Fetch API
+
+## License
+[MIT](LICENSE) © Saravanan
